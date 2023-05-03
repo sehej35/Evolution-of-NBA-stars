@@ -22,7 +22,8 @@ The job title is "Basketball Research Associate". Within this job, SIS expects t
 Sources - https://www.balldontlie.io/home.html#introduction , https://www.basketball-reference.com/leagues/NBA_2023_per_game.html
 
 ### Notebooks
-NOTEBOOK LINKS
+https://github.com/sehej35/SQL-portfolio-project/blob/main/data_collection.ipynb
+https://github.com/sehej35/SQL-portfolio-project/blob/main/sql-analysis.ipynb
 
 ### Future Improvements
 If I had more time, one thing I would do would be to add the datasets for the missing years between 2013 and 2022 in order to create a visualization in Tableau or Excel that demonstrates the evolution of high volume scorers and their net possession differential.
