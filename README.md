@@ -18,6 +18,11 @@ The job title is "Basketball Research Associate". Within this job, SIS expects t
 , Assist in constructing near- and long-term strategy for the basketball scope
 , and Provide ad-hoc analyses as requested by clients and internal leadership.
 
+
+https://www.adzuna.com/details/4059215689?v=363FCE3F7716388E89496AD9CB6BCFBF1B2D6892&frd=07dcf1e9049d059a66862276c4d7beff&ccd=2a57296555ac472fe140be4bdfbf343e&r=12940061&utm_source=linkedin6&utm_medium=organic&partnerb=1&chnlid=1098&a=e
+
+
+
 ### Data
 Sources - https://www.balldontlie.io/home.html#introduction , https://www.basketball-reference.com/leagues/NBA_2023_per_game.html
 
