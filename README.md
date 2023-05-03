@@ -19,7 +19,7 @@ The job title is "Basketball Research Associate". Within this job, SIS expects t
 , and Provide ad-hoc analyses as requested by clients and internal leadership.
 
 ### Data
-Source - https://www.balldontlie.io/home.html#introduction
+Sources - https://www.balldontlie.io/home.html#introduction , https://www.basketball-reference.com/leagues/NBA_2023_per_game.html
 
 ### Notebooks
 NOTEBOOK LINKS
